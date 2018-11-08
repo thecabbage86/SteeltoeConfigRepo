@@ -8,5 +8,5 @@ Logging:
       Default: Information
 eureka:
   client:
-    serviceUrl: http://localhost:8761/eureka/
+    serviceUrl: https://eureka-3cef1a32-d425-4d61-a3e6-6830d9756409.cfapps.io/eureka/
     validate_certificates: false
